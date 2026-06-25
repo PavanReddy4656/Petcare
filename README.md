@@ -67,16 +67,16 @@ PetCare/
 
 ```bash
 # Clone the repository
-git clone git@github.com:rahulmanohar14/Petcare_Website.git
-cd PetCare
+git clone https://github.com/PavanReddy4656/Petcare.git
+cd Petcare
 
 # Setup server
-cd server
+cd pet-care-server
 npm install
 npm start
 
 # Setup client
-cd ../client
+cd ../pet-care-client
 npm install
 npm start
 ```
